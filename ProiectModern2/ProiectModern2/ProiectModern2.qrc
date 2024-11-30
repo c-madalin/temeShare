@@ -1,4 +1,5 @@
 <RCC>
-    <qresource prefix="ProiectModern2">
+    <qresource prefix="/ProiectModern2">
+        <file>mainW.png</file>
     </qresource>
 </RCC>
