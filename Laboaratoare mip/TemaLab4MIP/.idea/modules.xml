@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Modul/Modul.iml" filepath="$PROJECT_DIR$/Modul/Modul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemaLab4MIP.iml" filepath="$PROJECT_DIR$/TemaLab4MIP.iml" />
+    </modules>
+  </component>
+</project>
